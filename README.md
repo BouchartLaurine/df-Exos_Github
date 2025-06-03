@@ -3,7 +3,7 @@
 Ce dépôt contient une série d'exercices pratiques pour apprendre à utiliser **Git** et **GitHub** dans un projet front-end.
 
 ---
-
+  
 ## ✅ Prérequis
 - Avoir Git installé
 - Avoir un compte GitHub
